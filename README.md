@@ -7,3 +7,9 @@ This application Chit N Chat allows one to communicate with one another using so
 2) User status display (online/offline)
 3) Message seen/delivered
 4) Have your profile presence on the app
+
+Steps:-
+1) Register your account
+2) Login with your newely created account
+3) Set profile pic and status
+4) Get ON... with your Chit-N-Chat !!!
